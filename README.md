@@ -41,5 +41,6 @@ It aims to reduce the communication gap between hearing-impaired individuals and
 git clone https://github.com/abhishekbh0476/Sign-Language-Recognition.git
 cd Sign-Language-Recognition
 pip install -r requirements.txt
-python app.py
+python final.py
+
 
